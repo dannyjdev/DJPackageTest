@@ -8,12 +8,8 @@
     <Authors>dannyjdev</Authors>
     <Company>microsoft</Company>
     <PackageId>DJPackageTest</PackageId>
-    <Description>&lt;/script&gt;
-&lt;svg width='100' height='100'&gt;
-  &lt;circle cx='50' cy='50' r='40' stroke='green' stroke-width='4' fill='yellow' /&gt;
-  &lt;script&gt;alert('hacked');(function () {console.log('hacked')})();&lt;/script&gt;
-&lt;/svg&gt;</Description>
-    <Version>1.0.1</Version>
+    <Description>![svg js](https://gist.githubusercontent.com/dannyjdev/8e3bb818ff1f45588dd17e0748616510/raw/d763cc58651776c45a3e63e21ac752ae1178adeb/svg-js.svg)
+![valid](https://gist.githubusercontent.com/dannyjdev/8e3bb818ff1f45588dd17e0748616510/raw/d763cc58651776c45a3e63e21ac752ae1178adeb/svg-valid.svg)</Description>
+    <Version>1.0.2</Version>
   </PropertyGroup>
-
 </Project>

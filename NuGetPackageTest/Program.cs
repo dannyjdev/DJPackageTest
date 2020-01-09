@@ -6,7 +6,7 @@ namespace NuGetPackageTest
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("DJPackageTest!");
+            Console.WriteLine("DJPackageTest: 1.0.2");
         }
     }
 }
